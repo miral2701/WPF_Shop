@@ -38,6 +38,7 @@ namespace Shop_WPF
                     Product pr = new Product(item.Name,item.Price,1,"");
                     Cart2.Add(pr);
                 }
+
             }
         }
 
